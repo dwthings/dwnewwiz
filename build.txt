@@ -1,4 +1,5 @@
-name="pi_leiabuild"                            
+name="pi_leiabuild"
+version="1.0"
 url="https://www.dropbox.com/s/pa4gmssfu8n76ha/pi_leiabuild.zip?dl=1"                
 gui="http://"
 kodi="18.0"
@@ -10,7 +11,8 @@ adult="No"
 description="Build for Raspberry Pi.(LibreELEC v18) Updated July 10.
              Notes-Swapped out Tempest for The Oath as main and other minor skin tweaks"
 
-name="pc_leiabuild"                            
+name="pc_leiabuild"
+version="1.0"
 url="https://www.dropbox.com/s/wqt121uy0r73vt6/pc_leiabuild.zip?dl=1"                
 gui="http://"
 kodi="18.0"

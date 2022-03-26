@@ -1,0 +1,65 @@
+name="pi_leiabuild"               
+version="http://"             
+url="https://www.dropbox.com/s/cflrs5k5m8520c9/pi_leiabuild.zip?dl=1"                
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab5.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="Build for Raspberry Pi only.(LibreELEC v18) Updated March 26.
+             Notes-Some Aeon skin cosmetic changes"
+
+name="pc_leiabuild"               
+version="http://"             
+url="https://www.dropbox.com/s/r0kl0yodoell3g9/pc_leiabuild.zip?dl=1"                
+gui="http://"
+kodi="18.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab5.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="A build for Kodi Leia(v18) on a PC/Android. Updated March 26.
+             Notes-Some Aeon skin cosmetic changes"
+
+name="pi_matrixbuild"               
+version="http://"             
+url="https://www.dropbox.com/s/wknx3a7yvk3zipl/pi_matrixbuild.zip?dl=1"                
+gui="http://"
+kodi="19.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab5.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="Build for Raspberry Pi only.(LibreELEC v19[10.0.1]) Updated March 26.
+             Notes-Includes PlutoTV PVR with guide. Some Aeon skin cosmetic changes. Fixed ResolveURL issue."
+
+name="pc_matrixbuild"               
+version="http://"             
+url="https://www.dropbox.com/s/0zbkesel3epdbcj/pc_matrixbuild.zip?dl=1"                
+gui="http://"
+kodi="19.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab5.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="A build for Kodi Matrix(v19) on a PC/Android. Updated March 26.
+             Notes-Includes PlutoTV PVR with guide. Some Aeon skin cosmetic changes. Fixed ResolveURL issue."
+
+
+
+
+
+
+
+
+
+
+
+
+
+

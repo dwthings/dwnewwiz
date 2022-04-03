@@ -50,17 +50,3 @@ adult="No"
 description="A build for Kodi Matrix(v19) on a PC/Android. 
              Updated April 3.
              Notes-Changed some code in Aeon skin that allows more user flexibility on theme colors."
-
-
-
-
-
-
-
-
-
-
-
-
-
-

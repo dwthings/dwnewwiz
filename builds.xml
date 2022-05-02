@@ -1,10 +1,10 @@
 <builds>
  <build>
    <name>PC Build for 19</name>
-   <version></version>
+   <version>1.4</version>
    <url>https://www.dropbox.com/s/d0jy2h52lfui509/pc_matrixbuild.zip?dl=1</url>
-   <icon></icon>
-   <fanart></fanart>
+   <icon>http://dabutcher.org/19/icon.png</icon>
+   <fanart>http://dabutcher.org/19/fan.jpg</fanart>
    <description></description>
    <preview></preview>
    <tweak></tweak>

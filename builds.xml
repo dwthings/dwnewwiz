@@ -6,14 +6,10 @@
    <icon>http://dabutcher.org/19/icon.png</icon>
    <fanart>http://dabutcher.org/19/fan.jpg</fanart>
    <description>
-     Build created on the YOU~NIQUE community skin by Sidekick. I have gave you a base but this build can become anything you want. Its a Chameleon
+     Matrix 19 build for PC and Android devices.
    </description>
-   <preview>
-     plugin://plugin.video.youtube/play/?video_id=jVvbEU184RY
-   </preview>
-   <tweak>
-     plugin://plugin.video.youtube/play/?video_id=M1je7tB31Ng
-   </tweak>
+   <preview></preview>
+   <tweak></tweak>
    <extra/>
   </build>
 </builds>

@@ -1,24 +1,19 @@
 <builds>
-  <build>
-	<name>pi_matrixbuild</name>
-	<version></version>
-	<url>https://www.dropbox.com/s/73dezk5zkc7kty5/pi_matrixbuild.zip?dl=1</url>
-	<icon></icon>
-	<fanart></fanart>
-	<description></description>
-	<preview></preview>
-        <tweak></tweak>
-        <extra></extra>       
-  </build>
-  <build>
-	<name>pc_matrixbuild</name>
-	<version></version>
-	<url>https://www.dropbox.com/s/d0jy2h52lfui509/pc_matrixbuild.zip?dl=1</url>
-	<icon></icon>
-	<fanart></fanart>
-	<description></description>
-	<preview></preview>
-        <tweak></tweak>
-        <extra></extra>       
-  </build>   
+ <build>
+   <name>Chameleon Build for 19</name>
+   <version>1.4</version>
+   <url>http://dabutcher.org/19/chameleon19.zip</url>
+   <icon>http://dabutcher.org/19/icon.png</icon>
+   <fanart>http://dabutcher.org/19/fan.jpg</fanart>
+   <description>
+    Build created on the YOU~NIQUE community skin by Sidekick. I have gave you a base but this build can become anything you want. Its a Chameleon
+   </description>
+   <preview>
+    plugin://plugin.video.youtube/play/?video_id=jVvbEU184RY
+   </preview>
+   <tweak>
+   plugin://plugin.video.youtube/play/?video_id=M1je7tB31Ng
+   </tweak>
+   <extra/>
+ </build>
 </builds>

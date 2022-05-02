@@ -1,6 +1,6 @@
 <builds>
   <build>
-   <name>Chameleon Build for 19</name>
+   <name>PC/Android Build for 19</name>
    <version>1.5</version>
    <url>http://dabutcher.org/19/chameleon19.zip</url>
    <icon>http://dabutcher.org/19/icon.png</icon>

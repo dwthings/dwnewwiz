@@ -1,7 +1,8 @@
 <builds>
   <build>
    <name>PC/Android Build for 19</name>
-   <url>http://dabutcher.org/19/chameleon19.zip</url>
+   <version>1.5</version>
+   <url>https://www.dropbox.com/s/d0jy2h52lfui509/pc_matrixbuild.zip?dl=1</url>
    <icon>http://dabutcher.org/19/icon.png</icon>
    <fanart>http://dabutcher.org/19/fan.jpg</fanart>
    <description>

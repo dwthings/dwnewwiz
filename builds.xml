@@ -1,7 +1,7 @@
 <builds>
  <build>
   <name>pi_matrixbuild</name>
-  <version></version>
+  <version>2</version>
   <url>https://www.dropbox.com/s/o25czds42lpmvw5/pi_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab6.png</icon>
   <fanart></fanart>
@@ -14,7 +14,7 @@
  </build>
  <build>
   <name>pc_matrixbuild</name>
-  <version></version>
+  <version>2</version>
   <url>https://www.dropbox.com/s/qmhch63a37ltekg/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6.png</icon>
   <fanart></fanart>

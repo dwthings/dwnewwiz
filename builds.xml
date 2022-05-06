@@ -4,10 +4,8 @@
   <version>2</version>
   <url>https://www.dropbox.com/s/o25czds42lpmvw5/pi_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab6.png</icon>
-  <fanart></fanart>
-  <description>Build for Raspberry Pi only.(LibreELEC v19[10.0.1]) 
-                     Updated May 2.
-                     Notes-Added RSS feed. New Pluto</description>
+  <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
+  <description>test</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -17,10 +15,8 @@
   <version>2</version>
   <url>https://www.dropbox.com/s/qmhch63a37ltekg/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6.png</icon>
-  <fanart></fanart>
-  <description>A build for Kodi Matrix(v19) on a PC/Android. 
-                     Updated May 1.
-                     Notes-Added RSS feed. New Pluto</description>
+  <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
+  <description>test</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

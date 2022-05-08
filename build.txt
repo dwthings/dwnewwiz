@@ -14,7 +14,7 @@ description="Build for Raspberry Pi only.(LibreELEC v19[10.0.1])
 
 name="pc_matrixbuild"               
 version="http://"             
-url="https://www.dropbox.com/s/qmhch63a37ltekg/pc_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/v4fk09dxbrqllne/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"

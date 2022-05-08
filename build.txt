@@ -23,7 +23,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="A build for Kodi Matrix(v19) on a PC/Android. 
-             Updated May 5.
+             Updated May 7.
              Notes-Added RSS feed. New Pluto"
 
 

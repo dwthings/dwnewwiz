@@ -1,7 +1,10 @@
 7
 |||
+-This wizard is brought to you by
+  Slam, BYB, and DaBs.
 
-1.4 Update - 
-
-stuff
-
+-It will be disabled after build
+ installation.
+ 
+ -You can re-enable it in the 
+  addon browser.

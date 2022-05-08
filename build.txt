@@ -1,6 +1,6 @@
 name="pi_matrixbuild"
 version="http://"
-url="https://www.dropbox.com/s/o25czds42lpmvw5/pi_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/a7nn2m338v7nj59/pi_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -9,7 +9,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v19[10.0.1]) 
-             Updated May 5.
+             Updated May 7.
              Notes-Added RSS feed. New Pluto."
 
 name="pc_matrixbuild"               

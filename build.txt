@@ -1,6 +1,6 @@
 name="pi_matrixbuild"
 version="http://"
-url="https://www.dropbox.com/s/a7nn2m338v7nj59/pi_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/20guef8q84e0isf/pi_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"

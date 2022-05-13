@@ -3,6 +3,9 @@
 -This wizard is brought to you by
   Slam, BYB, and DaBs.
 
+-I advise you to do Fresh Start
+ before build install.
+ 
 -It will be disabled after build
  installation.
  

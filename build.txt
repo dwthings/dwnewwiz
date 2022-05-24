@@ -1,6 +1,6 @@
 name="pi_matrixbuild"
 version="http://"
-url="https://www.dropbox.com/s/x8nvbvwze5lwis9/pi_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/ac15fxvpa4lo10j/pi_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -9,12 +9,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v19[10.0.1]) 
-             Updated May 16.
-             Notes-Added RSS feed. New Pluto."
+             Updated May 24.
+             Notes-Added RSS feed. New Pluto. Added Samsung+ channels and some skin refinements."
 
 name="pc_matrixbuild"               
 version="http://"             
-url="https://www.dropbox.com/s/9usbgxxel818gqn/pc_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/0y3yu264wlt8fmh/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -23,8 +23,8 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="A build for Kodi Matrix(v19) on a PC/Android. 
-             Updated May 16.
-             Notes-Added RSS feed. New Pluto"
+             Updated May 24.
+             Notes-Added RSS feed. New Pluto. Added Samsung+ channels and some skin refinements."
 
 
 

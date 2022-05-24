@@ -2,10 +2,10 @@
  <build>
   <name>pi_matrixbuild</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/x8nvbvwze5lwis9/pi_matrixbuild.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/ac15fxvpa4lo10j/pi_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>For LibreElec on Pi. Updated May 16</description>
+  <description>For LibreElec on Pi. Updated May 24</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -13,10 +13,10 @@
  <build>
   <name>pc_matrixbuild</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/9usbgxxel818gqn/pc_matrixbuild.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/0y3yu264wlt8fmh/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated May 16</description>
+  <description>For PC/Android. Updated May 24</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

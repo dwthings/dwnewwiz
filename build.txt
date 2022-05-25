@@ -8,7 +8,7 @@ icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab5.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description="Build for Raspberry Pi only.(LibreELEC v19[10.0.1]) 
+description="Build for Raspberry Pi only.(LibreELEC v19[10.0.2]) 
              Updated May 24.
              Notes-Added RSS feed. New Pluto. Added Samsung+, PBS, and Stirr channels and some skin refinements."
 

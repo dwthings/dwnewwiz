@@ -4,15 +4,15 @@
   <title>Hi!</title>
   
   <item>
-   <title>Latest update was May 24.</title>
+   <title>Latest update was June 12.</title>
   </item>
 
   <item>
-   <title>Still looking for a suitable replacement for the Oath addon.</title>
+   <title>Finally replaced Oath with Scrubs2.</title>
   </item>
 
   <item>
-   <title>Added tons of options for changing colors. Skin Settings/Customization/Choose skin colors.</title>
+   <title>Added tons of options for changing colors. Skin Settings/Customization/Choose skin colors. The experimental build can also change skin images.</title>
   </item>
 
   <item>
@@ -26,10 +26,5 @@
   <item>
    <title>Please read the FAQ under Skin Settings/Help for helpful tips.</title>
   </item>
-  
-  <item>
-   <title>Added Samsung+, PBS, and Stirr channels into the EPG and more Aeon skin refinements.</title>
-  </item>
- 
  </channel>
 </rss>

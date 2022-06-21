@@ -39,6 +39,20 @@ adult="No"
 description="An experimental build for Kodi Matrix(v19). 
              Updated June 21.
              Notes-Replaced Oath with Scrubs2. Added many options to change skin colors AND images."
+             
+name="pi_experimental"               
+version="http://"             
+url="https://www.dropbox.com/s/hi17z4o41tm7mjm/pi_experimental.zip?dl=1"                
+gui="http://"
+kodi="19.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6a.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2]). 
+             Updated June 21.
+             Notes-Replaced Oath with Scrubs2. Added many options to change skin colors AND images."
 
 
 

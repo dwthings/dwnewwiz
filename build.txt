@@ -28,7 +28,7 @@ description="A build for Kodi Matrix(v19) on a PC/Android.
 
 name="experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/84ivc5o1ww377kp/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/qlcu8vg2yvbow79/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -37,12 +37,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated June 27.
+             Updated July 4.
              Notes-Replaced Oath with Scrubs2. Added many options to change skin colors AND images."
              
 name="pi_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/embkcpv1m49g6dl/pi_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/oi4k7vxy01gi86f/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -51,7 +51,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2]). 
-             Updated June 27.
+             Updated July 4.
              Notes-Replaced Oath with Scrubs2. Added many options to change skin colors AND images."
 
 

@@ -2,10 +2,10 @@
  <build>
   <name>pi_matrixbuild</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/ndkpethmss12obw/pi_matrixbuild.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/s793ygq14a3g26d/pi_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>For LibreElec on Pi. Updated June 23</description>
+  <description>For LibreElec on Pi. Updated July 27</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -13,10 +13,10 @@
  <build>
   <name>pc_matrixbuild</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/ffbgmaqifdkilpr/pc_matrixbuild.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/2y76n5u5ggxjspq/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated June 23</description>
+  <description>For PC/Android. Updated July 27</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -24,10 +24,10 @@
  <build>
   <name>experimental</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/qlcu8vg2yvbow79/pc_experimental.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/f48w5d4sotdxne2/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated July 4</description>
+  <description>Updated July 27</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -35,10 +35,10 @@
  <build>
   <name>pi_experimental</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/oi4k7vxy01gi86f/pi_experimental.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/p7qqo1x256j43x1/pi_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated July 4</description>
+  <description>Updated July 27</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

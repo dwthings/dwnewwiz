@@ -1,6 +1,6 @@
 name="pi_matrixbuild"
 version="http://"
-url="https://www.dropbox.com/s/s793ygq14a3g26d/pi_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/3hw056mfqaqxlem/pi_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -9,12 +9,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v19[10.0.2]) 
-             Updated July 27.
+             Updated Aug 3.
              Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors."
 
 name="pc_matrixbuild"               
 version="http://"             
-url="https://www.dropbox.com/s/2y76n5u5ggxjspq/pc_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/tpw8l52jqs6fwah/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -23,12 +23,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="A build for Kodi Matrix(v19) on a PC/Android. 
-             Updated July 27.
+             Updated Aug 3.
              Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors."
 
 name="experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/f48w5d4sotdxne2/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/miynmc756kejskm/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -37,12 +37,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated July 27.
+             Updated Aug 3.
              Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors AND images."
              
 name="pi_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/p7qqo1x256j43x1/pi_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/kf4g6stsvr08na8/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -51,7 +51,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2]). 
-             Updated July 27.
+             Updated Aug 3.
              Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors AND images."
 
 

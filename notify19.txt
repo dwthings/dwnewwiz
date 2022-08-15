@@ -3,7 +3,7 @@
 -This wizard is brought to you by
   Slam, BYB, and DaBs.
   
--If you payed for this, then you were ripped off.
+-If you paid for this, then you were ripped off.
 
 -I advise you to do Fresh Start
  before build install.

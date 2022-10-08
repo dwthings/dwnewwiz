@@ -28,7 +28,7 @@ description="A build for Kodi Matrix(v19) on a PC/Android.
 
 name="experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/k7xhohktbhyxf7o/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/ofxauytnbplq9vw/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -37,12 +37,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated Aug 15.
+             Updated Oct 8.
              Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors AND images."
              
 name="pi_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/ueywcrscfcna4mc/pi_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/r06m6qmdg2e0spn/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -51,7 +51,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2]). 
-             Updated Aug 15.
+             Updated Oct 8.
              Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors AND images."
 
 

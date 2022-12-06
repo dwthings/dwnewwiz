@@ -13,21 +13,21 @@
  <build>
   <name>pc_matrixbuild</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/5vpm9m39rc3yo5r/pc_matrixbuild.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/mm52phq6kme24eb/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Oct 21</description>
+  <description>For PC/Android. Updated Dec 5</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
-  <name>experimental</name>
+  <name>pc_experimental</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/q063g5phh4xenn7/pc_experimental.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/kh5ritrv9who776/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated Oct 21</description>
+  <description>For PC/Android. Updated Dec 5</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -35,10 +35,10 @@
  <build>
   <name>pi_experimental</name>
   <version>.</version>
-  <url>https://www.dropbox.com/s/mndyeig0t6f4i01/pi_experimental.zip?dl=1</url>
+  <url>https://www.dropbox.com/s/uozngy56w1cze7a/pi_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated Oct 21</description>
+  <description>Updated Dec 5</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

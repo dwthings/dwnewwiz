@@ -14,7 +14,7 @@ description="Build for Raspberry Pi only.(LibreELEC v19[10.0.2])
 
 name="pc_matrixbuild"               
 version="http://"             
-url="https://www.dropbox.com/s/5vpm9m39rc3yo5r/pc_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/mm52phq6kme24eb/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -23,12 +23,11 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="A build for Kodi Matrix(v19) on a PC/Android. 
-             Updated Oct 21.
-             Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors."
+             Updated Dec 5"
 
-name="experimental"               
+name="pc_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/q063g5phh4xenn7/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/kh5ritrv9who776/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -37,12 +36,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated Oct 21.
-             Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors AND images."
+             Updated Dec 5.
+             Notes-Added many options to change skin colors AND images."
              
 name="pi_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/mndyeig0t6f4i01/pi_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/uozngy56w1cze7a/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -51,8 +50,8 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2]). 
-             Updated Oct 21.
-             Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors AND images."
+             Updated Dec 5.
+             Notes-Added many options to change skin colors AND images."
 
 
 

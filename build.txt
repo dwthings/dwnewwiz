@@ -1,20 +1,6 @@
-name="pi_matrixbuild"
-version="http://"
-url="https://www.dropbox.com/s/4bagxylqf2z2ids/pi_matrixbuild.zip?dl=1"                
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pigrab5.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="Build for Raspberry Pi only.(LibreELEC v19[10.0.2]) 
-             Updated Aug 15.
-             Notes-Replaced Scrubs2 with Homelander. Added many options to change skin colors."
-
 name="pc_matrixbuild"               
 version="http://"             
-url="https://www.dropbox.com/s/mm52phq6kme24eb/pc_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/hw3etjine202u02/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -27,7 +13,7 @@ description="A build for Kodi Matrix(v19) on a PC/Android.
 
 name="pc_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/6dg8kysg43amdls/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/g56hz99i35p6mwt/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -41,7 +27,7 @@ description="An experimental build for Kodi Matrix(v19).
              
 name="pi_experimental"               
 version="http://"             
-url="https://www.dropbox.com/s/uozngy56w1cze7a/pi_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/v83ksxskjdjn5sd/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"

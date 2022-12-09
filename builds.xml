@@ -1,7 +1,7 @@
 <builds>
  <build>
   <name>pc_matrixbuild</name>
-  <version>.</version>
+  <version>12-5-22</version>
   <url>https://www.dropbox.com/s/qu042dwm0j7vmqq/pc_matrixbuild05.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
@@ -12,7 +12,7 @@
  </build>
  <build>
   <name>pc_experimental</name>
-  <version>.</version>
+  <version>12-5-22</version>
   <url>https://www.dropbox.com/s/jf6twaei4dcu5b2/pc_experimental05.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
@@ -23,7 +23,7 @@
  </build>
  <build>
   <name>pi_experimental</name>
-  <version>.</version>
+  <version>12-5-22</version>
   <url>https://www.dropbox.com/s/wpv51yyyah5d2tb/pi_experimental05.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>

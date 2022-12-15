@@ -12,22 +12,22 @@
  </build>
  <build>
   <name>pc_experimental</name>
-  <version>12-5-22</version>
-  <url>https://www.dropbox.com/s/jf6twaei4dcu5b2/pc_experimental05.zip?dl=1</url>
+  <version>12-14-22</version>
+  <url>https://www.dropbox.com/s/wajlpteuf9gid9c/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Dec 5</description>
+  <description>For PC/Android. Updated Dec 14</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>pi_experimental</name>
-  <version>12-5-22</version>
-  <url>https://www.dropbox.com/s/wpv51yyyah5d2tb/pi_experimental05.zip?dl=1</url>
+  <version>12-14-22</version>
+  <url>https://www.dropbox.com/s/o789kdg2iyueece/pi_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/pcgrab6b.png</icon>
   <fanart>https://raw.githubusercontent.com/Davestuff/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated Dec 5</description>
+  <description>Updated Dec 14</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

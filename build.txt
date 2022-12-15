@@ -12,8 +12,8 @@ description="A build for Kodi Matrix(v19) on a PC/Android.
              Updated Dec 5"
 
 name="pc_experimental"               
-version="12-5-22"             
-url="https://www.dropbox.com/s/jf6twaei4dcu5b2/pc_experimental05.zip?dl=1"                
+version="12-14-22"             
+url="https://www.dropbox.com/s/wajlpteuf9gid9c/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -22,12 +22,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated Dec 5.
+             Updated Dec 14.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_experimental"               
-version="12-5-22"             
-url="https://www.dropbox.com/s/wpv51yyyah5d2tb/pi_experimental05.zip?dl=1"                
+version="12-14-22"             
+url="https://www.dropbox.com/s/o789kdg2iyueece/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -36,7 +36,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2]). 
-             Updated Dec 5.
+             Updated Dec 14.
              Notes-Added many options to change skin colors AND images."
 
 

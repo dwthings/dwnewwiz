@@ -1,11 +1,11 @@
 <builds>
  <build>
   <name>pc_matrixbuild</name>
-  <version>12-5-22</version>
-  <url>https://www.dropbox.com/s/qu042dwm0j7vmqq/pc_matrixbuild05.zip?dl=1</url>
+  <version>12-20-22</version>
+  <url>https://www.dropbox.com/s/qkl8la95lbx8tud/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Dec 5</description>
+  <description>For PC/Android. Updated Dec 20</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

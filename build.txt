@@ -1,6 +1,6 @@
 name="pc_matrixbuild"               
-version="12-5-22"             
-url="https://www.dropbox.com/s/qu042dwm0j7vmqq/pc_matrixbuild05.zip?dl=1"                
+version="12-20-22"             
+url="https://www.dropbox.com/s/qkl8la95lbx8tud/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -9,7 +9,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="A build for Kodi Matrix(v19) on a PC/Android. 
-             Updated Dec 5"
+             Updated Dec 20"
 
 name="pc_experimental"               
 version="12-14-22"             

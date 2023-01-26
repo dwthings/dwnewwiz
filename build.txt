@@ -1,6 +1,6 @@
 name="pc_matrixbuild"               
 version="1-25-23"             
-url="https://www.dropbox.com/s/v0x07z6q8elvqu2/pc_matrixbuild.zip?dl=1"                
+url="https://www.dropbox.com/s/e38pmrd8t8rnvih/pc_matrixbuild.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -13,7 +13,7 @@ description="A build for Kodi Matrix(v19) on a PC/Android.
 
 name="pc_experimental"               
 version="1-25-23"             
-url="https://www.dropbox.com/s/3c0zljq3rlqrxdo/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/ydmx4qb3dmyz9uy/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -27,7 +27,7 @@ description="An experimental build for Kodi Matrix(v19).
              
 name="pi_experimental"               
 version="1-25-23"             
-url="https://www.dropbox.com/s/45sub0ki1zyj0bj/pi_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/ued4oga3m0e50o3/pi_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -41,7 +41,7 @@ description="An experimental build for Raspberry Pi only.(LibreELEC v19[10.0.2])
 
 name="nexus_experimental"               
 version="1-25-23"             
-url="https://www.dropbox.com/s/pzgf9rtacjzc8ci/nexus_experimental.zip?dl=1"                
+url="https://www.dropbox.com/s/omu4pzungx85jng/nexus_experimental.zip?dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"

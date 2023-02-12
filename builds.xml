@@ -1,44 +1,44 @@
 <builds>
  <build>
   <name>pc_matrixbuild</name>
-  <version>2-9-23</version>
-  <url>https://www.dropbox.com/s/3s7vg992kowken1/pc_matrixbuild.zip?dl=1</url>
+  <version>2-11-23</version>
+  <url>https://www.dropbox.com/s/lfrgja9l32cio4u/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Feb 9.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android. Updated Feb 11.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>pc_experimental</name>
-  <version>2-9-23</version>
-  <url>https://www.dropbox.com/s/nid1rxh8jpo4e4f/pc_experimental.zip?dl=1</url>
+  <version>2-11-23</version>
+  <url>https://www.dropbox.com/s/i32xm04s1padcio/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Feb 9.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android. Updated Feb 11.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>pi_experimental</name>
-  <version>2-9-23</version>
-  <url>https://www.dropbox.com/s/unbv6ezrbb5hixe/pi_experimental.zip?dl=1</url>
+  <version>2-11-23</version>
+  <url>https://www.dropbox.com/s/sjkq9y63zw53ful/pi_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated Feb 9.[CR]-Raspberry Pi only.(LibreELEC v19[10.0.2])[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>Updated Feb 11.[CR]-Raspberry Pi only.(LibreELEC v19[10.0.2])[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>nexus_experimental</name>
-  <version>2-9-23</version>
-  <url>https://www.dropbox.com/s/dctms1tvfd09wnf/nexus_experimental.zip?dl=1</url>
+  <version>2-11-23</version>
+  <url>https://www.dropbox.com/s/z7odyp1ybgtsma8/nexus_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android K20. Updated Feb 9.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android K20. Updated Feb 11.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

@@ -1,22 +1,22 @@
 <builds>
  <build>
   <name>pc_matrixbuild</name>
-  <version>2-16-23</version>
-  <url>https://www.dropbox.com/s/tzww6g9xlm2nf53/pc_matrixbuild.zip?dl=1</url>
+  <version>2-18-23</version>
+  <url>https://www.dropbox.com/s/bxo36lifai3s08s/pc_matrixbuild.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Feb 16.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android. Updated Feb 18.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>pc_experimental</name>
-  <version>2-16-23</version>
-  <url>https://www.dropbox.com/s/pe61gc13bql1l0g/pc_experimental.zip?dl=1</url>
+  <version>2-18-23</version>
+  <url>https://www.dropbox.com/s/qgiqjpyumqale7x/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated Feb 16.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android. Updated Feb 18.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
@@ -34,11 +34,11 @@
  </build>
  <build>
   <name>nexus_experimental</name>
-  <version>2-16-23</version>
-  <url>https://www.dropbox.com/s/ney46zxccgkmqvm/nexus_experimental.zip?dl=1</url>
+  <version>2-18-23</version>
+  <url>https://www.dropbox.com/s/x7b3a8nag8dqbkw/nexus_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab5b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android K20. Updated Feb 16.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android K20. Updated Feb 18.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

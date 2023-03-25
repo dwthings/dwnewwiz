@@ -23,11 +23,11 @@
  </build>
  <build>
   <name>pi_experimental</name>
-  <version>3-6-23</version>
-  <url>https://www.dropbox.com/s/ptxsninncrdpej6/pi_experimental.zip?dl=1</url>
+  <version>3-25-23</version>
+  <url>https://www.dropbox.com/s/bkxa6zovbqpu7rh/pi_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated Mar 6.[CR]-Raspberry Pi only.(LibreELEC v19[10])[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
+  <description>Updated Mar 25.[CR]-Raspberry Pi only.(LibreELEC v19[10])[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

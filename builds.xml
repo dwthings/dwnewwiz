@@ -1,0 +1,12 @@
+<builds>
+
+  <build>
+	<name>pc_matrixbuild</name>
+	<version>4-26-23</version>
+	<url>https://www.dropbox.com/s/b8getabrcwjgmfm/pc_matrixbuild.zip?dl=1</url>
+	<icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6.png</icon>
+	<fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
+	<description>For PC/Android. Updated Apr 26.</description>
+  </build>
+  
+</builds>

@@ -8,7 +8,7 @@
 -I advise you to do Fresh Start
  before build install.
  
--It will be disabled after build
+-This wizard will be disabled after build
  installation.
  
  -You can re-enable it in the 

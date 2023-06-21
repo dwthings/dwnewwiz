@@ -3,7 +3,7 @@
   <name>pc_matrixbuild</name>
   <version>6-2-23</version>
   <url>https://www.dropbox.com/s/4i4xdqdv3jkyqfq/pc_matrixbuild.zip?dl=1</url>
-  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6.png</icon>
+  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>For PC/Android. Updated June 2.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
@@ -14,7 +14,7 @@
   <name>pc_experimental</name>
   <version>6-20-23</version>
   <url>https://www.dropbox.com/s/ji5sjdw6yg57z3d/pc_experimental.zip?dl=1</url>
-  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab5b.png</icon>
+  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>For PC/Android. Updated June 20.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
@@ -25,7 +25,7 @@
   <name>pi_matrix</name>
   <version>6-20-23</version>
   <url>https://www.dropbox.com/s/e2ds4op0zbop9c4/pi_matrix.zip?dl=1</url>
-  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6b.png</icon>
+  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>Updated June 20.[CR]-Raspberry Pi only.(LibreELEC v19[10])[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
@@ -36,7 +36,7 @@
   <name>nexus_experimental</name>
   <version>6-20-23</version>
   <url>https://www.dropbox.com/s/agox8vdnp87hprv/nexus_experimental.zip?dl=1</url>
-  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab5b.png</icon>
+  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>For PC/Android K20. Updated June 20.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
@@ -47,7 +47,7 @@
   <name>pi_nexus</name>
   <version>4-26-23</version>
   <url>https://www.dropbox.com/s/kbllaf64nkvy2l5/pi_nexus.zip?dl=1</url>
-  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab6b.png</icon>
+  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>Updated Apr 26.[CR]-Raspberry Pi only.(LibreELEC v20[11.0.1])[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>

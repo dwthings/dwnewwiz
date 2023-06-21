@@ -22,7 +22,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated June 20.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.
+             Updated June 20.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_matrix"               
@@ -36,7 +36,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v19.5[10.0.4]).[CR]
-             Updated June 20.-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.[CR]
+             Updated June 20.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
              Added many options to change skin colors AND images."
 
 name="nexus_experimental"               
@@ -50,7 +50,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20). 
-             Updated June 20.[CR]-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.
+             Updated June 20.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_nexus"               
@@ -64,7 +64,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v20[11.0.1]).[CR]
-             Updated Apr 26.-This build uses the full DW/SiLVO fork of the Aeon Nox Silvo skin.[CR]
+             Updated Apr 26.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
              Added many options to change skin colors AND images."           
              
 

@@ -12,33 +12,33 @@
  </build>
  <build>
   <name>pc_experimental</name>
-  <version>6-30-23</version>
-  <url>https://www.dropbox.com/s/i39s9b3pbdw9m59/pc_experimental.zip?dl=1</url>
+  <version>7-03-23</version>
+  <url>https://www.dropbox.com/s/l5qmu7lyhjucr3i/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android. Updated June 30.[CR]-This build uses the full Sandbox fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android. Updated July 3.[CR]-This build uses the full Sandbox fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>pi_matrix</name>
-  <version>6-30-23</version>
-  <url>https://www.dropbox.com/s/29ps6zew1gs5x7j/pi_matrix.zip?dl=1</url>
+  <version>7-03-23</version>
+  <url>https://www.dropbox.com/s/xyrlk4koaiu1nyo/pi_matrix.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated June 30.[CR]-Raspberry Pi only.(LibreELEC v19[10])[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>
+  <description>Updated July 3.[CR]-Raspberry Pi only.(LibreELEC v19[10])[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       
  </build>
  <build>
   <name>nexus_experimental</name>
-  <version>6-30-23</version>
-  <url>https://www.dropbox.com/s/wpnmakwps7dmyvl/nexus_experimental.zip?dl=1</url>
+  <version>7-03-23</version>
+  <url>https://www.dropbox.com/s/1icaq6g3nf8tjio/nexus_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>For PC/Android K20. Updated June 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>
+  <description>For PC/Android K20. Updated July 3.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>
   <preview></preview>
   <tweak></tweak>
   <extra></extra>       

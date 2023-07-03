@@ -12,8 +12,8 @@ description="A build for Kodi Matrix(v19) on a PC/Android.
              Updated June 2.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin."
 
 name="pc_experimental"               
-version="6-30-23"             
-url="https://www.dropbox.com/s/i39s9b3pbdw9m59/pc_experimental.zip?dl=1"                
+version="7-03-23"             
+url="https://www.dropbox.com/s/l5qmu7lyhjucr3i/pc_experimental.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -22,12 +22,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated June 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated July 3.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_matrix"               
-version="6-30-23"             
-url="https://www.dropbox.com/s/29ps6zew1gs5x7j/pi_matrix.zip?dl=1"                
+version="7-03-23"             
+url="https://www.dropbox.com/s/xyrlk4koaiu1nyo/pi_matrix.zip?dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -36,12 +36,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v19.5[10.0.4]).[CR]
-             Updated June 30.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
+             Updated July 3.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
              Added many options to change skin colors AND images."
 
 name="nexus_experimental"               
-version="6-30-23"             
-url="https://www.dropbox.com/s/wpnmakwps7dmyvl/nexus_experimental.zip?dl=1"                
+version="7-03-23"             
+url="https://www.dropbox.com/s/1icaq6g3nf8tjio/nexus_experimental.zip?dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -50,7 +50,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20). 
-             Updated June 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated July 3.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_nexus"               

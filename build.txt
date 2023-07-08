@@ -54,8 +54,8 @@ description="An experimental build for Kodi Nexus(v20).
              Notes-Added many options to change skin colors AND images."
              
 name="pi_nexus"               
-version="4-26-23"             
-url="https://www.dropbox.com/s/kbllaf64nkvy2l5/pi_nexus.zip?dl=1"                
+version="7-8-23"             
+url="https://www.dropbox.com/s/anqw94wqqtt8h6o/pi_nexus.zip?dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -64,7 +64,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v20[11.0.1]).[CR]
-             Updated Apr 26.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
+             Updated July 8.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
              Added many options to change skin colors AND images."           
              
 

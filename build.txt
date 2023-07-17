@@ -1,6 +1,6 @@
 name="pc_experimental"               
 version="7-17-23"             
-url="https://www.dropbox.com/scl/fi/1uj11bc0ms29576o8h7t2/pc_experimental.zip?dl=1"                
+url="https://www.dropbox.com/scl/fi/0cjk7qo5au69ewqlhy96x/pc_experimental.zip?rlkey=5f2q15w4w1ng2z5z7cqicamqw&dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -14,7 +14,7 @@ description="An experimental build for Kodi Matrix(v19).
 
 name="nexus_experimental"               
 version="7-17-23"             
-url="https://www.dropbox.com/scl/fi/8eeq3lfkscpxqz42tfjex/nexus_experimental.zip?dl=1"                
+url="https://www.dropbox.com/scl/fi/wf44xngljcy2u7l33i0wq/nexus_experimental.zip?rlkey=89ia5rpmru4c9noptar7jwa66&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -25,20 +25,7 @@ adult="No"
 description="An experimental build for Kodi Nexus(v20). 
              Updated July 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
-             
-name="pi_nexus"               
-version="7-17-23"             
-url="https://www.dropbox.com/scl/fi/vzvt6nn4p35zrb5gbhfch/pi_nexus.zip?dl=1"                
-gui="http://"
-kodi="20.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="Build for Raspberry Pi only.(LibreELEC v20[11.0.1]).[CR]
-             Updated July 17.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
-             Added many options to change skin colors AND images."           
+           
              
 
 

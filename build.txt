@@ -1,19 +1,6 @@
-name="pc_matrixbuild"               
-version="6-2-23"             
-url="https://www.dropbox.com/s/4i4xdqdv3jkyqfq/pc_matrixbuild.zip?dl=1"                
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="A build for Kodi Matrix(v19) on a PC/Android. 
-             Updated June 2.[CR]-This build uses the DWlite/SiLVO fork of the Aeon Nox Silvo skin."
-
 name="pc_experimental"               
-version="7-03-23"             
-url="https://www.dropbox.com/s/l5qmu7lyhjucr3i/pc_experimental.zip?dl=1"                
+version="7-17-23"             
+url="https://www.dropbox.com/scl/fi/ku412yc0fow4fupri7cv7/pc_experimental.zip?rlkey=ylrmudnxsiz5j13q4q04r35pu&dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -22,7 +9,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Matrix(v19). 
-             Updated July 3.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated July 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_matrix"               
@@ -40,8 +27,8 @@ description="Build for Raspberry Pi only.(LibreELEC v19.5[10.0.4]).[CR]
              Added many options to change skin colors AND images."
 
 name="nexus_experimental"               
-version="7-03-23"             
-url="https://www.dropbox.com/s/1icaq6g3nf8tjio/nexus_experimental.zip?dl=1"                
+version="7-17-23"             
+url="https://www.dropbox.com/scl/fi/as790lzz9xmk0ydykuiex/nexus_experimental.zip?rlkey=cc8v6heeic4ofstr1gbs7prh6&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -50,12 +37,12 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20). 
-             Updated July 3.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated July 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
              
 name="pi_nexus"               
-version="7-8-23"             
-url="https://www.dropbox.com/s/anqw94wqqtt8h6o/pi_nexus.zip?dl=1"                
+version="7-17-23"             
+url="https://www.dropbox.com/scl/fi/as790lzz9xmk0ydykuiex/nexus_experimental.zip?rlkey=cc8v6heeic4ofstr1gbs7prh6&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -64,7 +51,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="Build for Raspberry Pi only.(LibreELEC v20[11.0.1]).[CR]
-             Updated July 8.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
+             Updated July 17.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
              Added many options to change skin colors AND images."           
              
 

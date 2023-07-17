@@ -11,17 +11,6 @@
   <extra></extra>       
  </build>
  <build>
-  <name>pi_matrix</name>
-  <version>7-03-23</version>
-  <url>https://www.dropbox.com/s/xyrlk4koaiu1nyo/pi_matrix.zip?dl=1</url>
-  <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7b.png</icon>
-  <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
-  <description>Updated July 17.[CR]-Raspberry Pi only.(LibreELEC v19[10])[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>
-  <preview></preview>
-  <tweak></tweak>
-  <extra></extra>       
- </build>
- <build>
   <name>nexus_experimental</name>
   <version>7-17-23</version>
   <url>https://www.dropbox.com/scl/fi/8eeq3lfkscpxqz42tfjex/nexus_experimental.zip?dl=1</url>

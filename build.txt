@@ -11,20 +11,6 @@ adult="No"
 description="An experimental build for Kodi Matrix(v19). 
              Updated July 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
-             
-name="pi_matrix"               
-version="7-03-23"             
-url="https://www.dropbox.com/s/xyrlk4koaiu1nyo/pi_matrix.zip?dl=1"                
-gui="http://"
-kodi="19.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="Build for Raspberry Pi only.(LibreELEC v19.5[10.0.4]).[CR]
-             Updated July 3.-This build uses the Sandbox fork of the Aeon Nox Silvo skin.[CR]
-             Added many options to change skin colors AND images."
 
 name="nexus_experimental"               
 version="7-17-23"             

@@ -2,7 +2,7 @@
  <build>
   <name>pc_experimental</name>
   <version>7-17-23</version>
-  <url>https://www.dropbox.com/scl/fi/ku412yc0fow4fupri7cv7/pc_experimental.zip?rlkey=ylrmudnxsiz5j13q4q04r35pu&dl=1</url>
+  <url>https://www.dropbox.com/scl/fi/1uj11bc0ms29576o8h7t2/pc_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>For PC/Android. Updated July 3.[CR]-This build uses the full Sandbox fork of the Aeon Nox Silvo skin.</description>
@@ -24,7 +24,7 @@
  <build>
   <name>nexus_experimental</name>
   <version>7-17-23</version>
-  <url>https://www.dropbox.com/scl/fi/as790lzz9xmk0ydykuiex/nexus_experimental.zip?rlkey=cc8v6heeic4ofstr1gbs7prh6&dl=1</url>
+  <url>https://www.dropbox.com/scl/fi/8eeq3lfkscpxqz42tfjex/nexus_experimental.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>For PC/Android K20. Updated July 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>
@@ -35,7 +35,7 @@
  <build>
   <name>pi_nexus</name>
   <version>7-17-23</version>
-  <url>https://www.dropbox.com/scl/fi/14u65mixy7j4g9a489olp/pi_nexus.zip?rlkey=x266kagjukeg3f8a1vaqoen1j&dl=1</url>
+  <url>https://www.dropbox.com/scl/fi/vzvt6nn4p35zrb5gbhfch/pi_nexus.zip?dl=1</url>
   <icon>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7b.png</icon>
   <fanart>https://raw.githubusercontent.com/dwthings/dwnewwiz/master/fan.jpg</fanart>
   <description>Updated July 17.[CR]-Raspberry Pi only.(LibreELEC v20[11.0.1])[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.</description>

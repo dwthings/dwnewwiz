@@ -1,6 +1,6 @@
 name="pc_experimental"               
 version="7-17-23"             
-url="https://www.dropbox.com/scl/fi/2gssn4q9qcmj9sky4webe/pc_experimental.zip?dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/2gssn4q9qcmj9sky4webe/pc_experimental.zip?rlkey=hl323xymgiujrj4cyi94fbfvm&dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"
@@ -14,7 +14,7 @@ description="An experimental build for Kodi Matrix(v19).
 
 name="nexus_experimental"               
 version="7-17-23"             
-url="https://www.dropbox.com/scl/fi/af0mb48q9zckj1cd0tmmi/nexus_experimental.zip?dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/af0mb48q9zckj1cd0tmmi/nexus_experimental.zip?rlkey=1xgjbtg9y4hhsirknd9o3mlyd&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"

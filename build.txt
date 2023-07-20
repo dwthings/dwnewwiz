@@ -44,13 +44,13 @@ name="pi_nexus"
 version="7-20-23"             
 url="https://dl.dropboxusercontent.com/scl/fi/7m5rkk7iois9ahz8ftlzb/pi_nexus.zip?rlkey=c520l5gl5rvnsfa38ezib8qyf&dl=1"                
 gui="http://"
-kodi="19.0"
+kodi="20.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description="An experimental build for Kodi Matrix(v19). 
+description="An experimental build for Kodi Nexus(v20). 
              Updated July 20.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 

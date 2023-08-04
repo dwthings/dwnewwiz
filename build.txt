@@ -55,17 +55,17 @@ description="An experimental build for Kodi Nexus(v20).
              Notes-Added many options to change skin colors AND images."
 
 name="car_pc"               
-version="8-2-23"             
-url="https://dl.dropboxusercontent.com/scl/fi/o08fpvgihsid8vcx9r3i9/carpc.zip?rlkey=w93gs6k6tkln52axniwr3sx1l&dl=1"                
+version="8-4-23"             
+url="https://dl.dropboxusercontent.com/scl/fi/ruuemmptyegs3fqj5cy85/carpc.zip?rlkey=7u582gsu265h52dmxjrq2mmho&dl=1"                
 gui="http://"
-kodi="19.0"
+kodi="19/20"
 theme="http://"
 icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/carpcgrab04a.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description="An experimental build for Kodi Matrix(v19). 
-             Updated Aug 2.[CR]-This build uses the Xtouch fork of the carbon car pc skin.
+description="An experimental build for Kodi Matrix/Nexus.
+             Updated Aug 4.[CR]-This build uses the Xtouch fork of the carbon car pc skin.
              Notes-Intended for touchscreen devices."
 
 

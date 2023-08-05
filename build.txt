@@ -56,7 +56,7 @@ description="An experimental build for Kodi Nexus(v20).
 
 name="car_pc"               
 version="8-4-23"             
-url="https://dl.dropboxusercontent.com/scl/fi/ruuemmptyegs3fqj5cy85/carpc.zip?rlkey=7u582gsu265h52dmxjrq2mmho&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/23xixhc6k2b1ibl1gibj1/carpc.zip?rlkey=9c8qsgo0b1b1z3mrz7vcfx5n0&dl=1"                
 gui="http://"
 kodi="19.0"
 theme="http://"

@@ -41,8 +41,8 @@ description="An experimental build for Kodi Matrix(v19).
              Notes-Added many options to change skin colors AND images."
 
 name="pi_nexus"               
-version="8-26-23"             
-url="https://dl.dropboxusercontent.com/scl/fi/eyn1p12mjet1v2r7tyjcj/pi_nexus.zip?rlkey=dmewxg3vke0y5yz4ww0pruw95&dl=1"                
+version="9-4-23"             
+url="https://dl.dropboxusercontent.com/scl/fi/spv26luuk6q2jvr9rq1tt/pi_nexus.zip?rlkey=9s8elo5x1w81e7p6o1rp86dvv&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -51,7 +51,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20). 
-             Updated Aug 26.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 4.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 name="car pc x-touch"               

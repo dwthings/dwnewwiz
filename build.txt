@@ -23,7 +23,7 @@ icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab7a.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description="An experimental build for Kodi Nexus(v20). 
+description="An experimental build for Kodi Nexus(v20) on a Raspberry Pi. 
              Updated Jan 27.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 

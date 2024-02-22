@@ -1,6 +1,6 @@
 name="nexus_sandbox"               
 version="2-21-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/0vhmf9bsxrjvgu34b02ik/nexus_sandbox.zip?rlkey=tutgy1eg8r69d7rawug88gtpg&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/1q6ht1tj4539izg1apiet/sandbox_nexus.zip?rlkey=e1pqg9upav0364dlds4gtolzf&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -15,7 +15,7 @@ description="An experimental build for Kodi Nexus(v20).
 
 name="pi_nexus"               
 version="2-21-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/jsq1j7zswlcim72fnoyow/pi_nexus.zip?rlkey=fydu2wz8rndq34i5xfzvc80l8&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/56d6rbluxfpxccdsbfkli/pi_nexus.zip?rlkey=btgyyqudr9ew9qk5u6p7286mh&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"

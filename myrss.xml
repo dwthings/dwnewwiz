@@ -4,7 +4,7 @@
   <title>Hi!</title>
   
   <item>
-   <title>Latest update was Apr 4.</title>
+   <title>Latest update was Apr 8.</title>
   </item>
 
   <item>
@@ -12,7 +12,7 @@
   </item>
   
   <item>
-   <title>A lot of fixing pesky little errors.  Added improved color picker, file browser and media menu buttons.</title>
+   <title>Favourites is now a list window instead of a dialog box.  Added library integration to sub-menu under Favs.  Items recently added to library are widgets.</title>
   </item>
 
   <item>

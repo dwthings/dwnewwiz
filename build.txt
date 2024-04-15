@@ -1,6 +1,6 @@
 name="nexus_sandbox"               
-version="4-8-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/xrmifsaokcmubul1mbf8w/nexus_sandbox.zip?rlkey=mn7nnxqzxabddn3cnmn6fv0fl&dl=1"                
+version="4-15-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/jzaz9s7apchw2fhrwpgaq/nexus_sandbox.zip?rlkey=8cv0ui9s621yenoe7kdwed6eh&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -9,13 +9,13 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20). 
-             Updated Apr 8.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Apr 15.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
 name="pi_nexus"               
-version="4-8-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/l2noa30vv8dx8lwecyk59/pi_nexus.zip?rlkey=k3csvkigec814tcy9mtk2otdt&dl=1"                
+version="4-15-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/uvxqsl85qayq5kpkaonjm/pi_nexus.zip?rlkey=r7qjlupxlqkxnbkfz576ge56d&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -24,6 +24,6 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20) on a Raspberry Pi. 
-             Updated Apr 8.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Apr 15.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 

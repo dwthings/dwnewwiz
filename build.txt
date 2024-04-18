@@ -1,21 +1,36 @@
 name="nexus_sandbox"               
-version="4-15-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/aulskxbq3nx86tomdzush/nexus_sandbox.zip?rlkey=z52uhyh6y3pk8ql3r3nl2z4u2&dl=1"                
+version="4-17-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/7t1mf4h4ps6nksdwb1yxf/nexus_sandbox.zip?rlkey=dcpvvv6v150ute2r58gyapu3c&dl=1"                
 gui="http://"
-kodi="20.0"
+kodi="20.5"
 theme="http://"
 icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
 fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20). 
-             Updated Apr 15.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Apr 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
+name="omega_sandbox"               
+version="4-17-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/wu2959rgs40mu3pbmyokr/omega_sandbox.zip?rlkey=o7acxdfuq5g6scm855j1awjcg&dl=1"                
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="An experimental build for Kodi Omega(v21). 
+             Updated Apr 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Notes-Added many options to change skin colors AND images.
+
+
 name="pi_nexus"               
-version="4-15-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/xcyhef7ynwr5iq7s6k6cn/pi_nexus.zip?rlkey=tqy5qfck0yk0f4lyvj1wjyhum&dl=1"                
+version="4-17-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/calt84ykw0l22a64djtpy/pi_nexus.zip?rlkey=dgg4vzgqztnqozgq67kzr6dg4&dl=1"                
 gui="http://"
 kodi="20.0"
 theme="http://"
@@ -24,6 +39,6 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Nexus(v20) on a Raspberry Pi. 
-             Updated Apr 15.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Apr 17.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 

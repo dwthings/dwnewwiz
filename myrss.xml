@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
  <channel>
-  <title>Hi!</title>
   
   <item>
-   <title>Latest update was May 4.</title>
+   <title>Latest update was May 21.</title>
   </item>
-
+  
+  <item>
+   <title>Reworked a later verion of the Aeon Nox skin with all of my modifications.</title>
+  </item>
+  
   <item>
    <title>Added a build for Omega v21.</title>
-  </item>
-
-  <item>
-   <title>Removed Plex channels.</title>
   </item>
 
   <item>

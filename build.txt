@@ -1,6 +1,6 @@
 name="omega_sandbox"               
 version="7-25-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/jjf8zi78fsfa9vtekcvb6/omega_sandbox.zip?rlkey=y7z6bw9yncgw1g5vzwu3vdz1b&st=c0sgfbfw&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/skwwy7b9hhhsuo4x4ovgd/omega_sandbox.zip?rlkey=42bi9tk3t0rq3e2nfdmijr6j2&st=7mploapd&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"

@@ -1,6 +1,6 @@
 name="omega_sandbox"               
 version="8-5-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/7uk8r8gcsm5txynvihzld/omega_sandbox.zip?rlkey=b6zriphoz1gnpphs260sqajy8&st=wrk5emtr&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/oxn8zvj1bil1eas4j3gpd/omega_sandbox.zip?rlkey=yruvuyoac4lf364phdsyb6huz&st=zcxqpqir&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -15,7 +15,7 @@ description="An experimental build for Kodi Omega(v21).
 
 name="pi_omega"               
 version="8-5-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/fx52vi8ta8cfj1rnlsmea/pi_omega.zip?rlkey=pvi7suvw2ppiaqoaq620g6fm3&st=subvaihm&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/r0uu7nhk2w6nv31gvo1ir/pi_omega.zip?rlkey=r0jqzev5x03kkllsx9ccqzxng&st=mbrw31no&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"

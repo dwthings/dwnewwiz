@@ -1,6 +1,6 @@
 name="omega_sandbox"               
-version="8-18-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/r9ypmxn24hk714npt94d1/omega_sandbox.zip?rlkey=t76droot2ajkvvo9c1b938gsw&st=61623r48&dl=1"                
+version="9-1-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/6wuy1n9x2e4dix13fmmg8/omega_sandbox.zip?rlkey=sd2ge92gotl631yc53q12z6kq&st=fadc72oj&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -9,13 +9,13 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
-             Updated Aug 18.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 1.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images.
 
 
 name="pi_omega"               
-version="8-18-24"             
-url="https://dl.dropboxusercontent.com/scl/fi/s70lxgr0gad97o19qihzr/pi_omega.zip?rlkey=14xzrgz5gyyo2jakkdi4feas9&st=uj3d20pr&dl=1"                
+version="9-1-24"             
+url="https://dl.dropboxusercontent.com/scl/fi/qrc1lot0ouqk7csgwq5nw/pi_omega.zip?rlkey=g7y3zqycoejxzsngb3pgfhh97&st=pz6eettt&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -24,6 +24,6 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21) on a Raspberry Pi. 
-             Updated Aug 18.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 1.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 

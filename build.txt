@@ -10,7 +10,7 @@ preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
              Updated Sept 11.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Added many options to change skin colors AND images.
+             Notes-Added many options to change skin colors AND images."
 
 
 name="omega_lite"               
@@ -25,7 +25,7 @@ preview="http://"
 adult="No"
 description="A lite build for Kodi Omega(v21). Recommended for low end devices and early Firesticks. 
              Updated Sept 11.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Removed all themes except for default, removed extra fonts, removed all mod images, removed retro-gaming, removed milkdrop.
+             Notes-Removed all themes except for default, removed extra fonts, removed all mod images, removed retro-gaming, removed milkdrop."
 
 
 name="pi_omega"               

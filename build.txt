@@ -1,6 +1,6 @@
 name="omega_sandbox"               
-version="1-4-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/s10j38atynqo22gjalhwc/omega_sandbox.zip?rlkey=gnaxcii7arr9jqdbxfzhm2ehs&st=l8rd5jei&dl=1"                
+version="1-9-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/tosbx2papdiaf46kinf94/omega_sandbox.zip?rlkey=gtqxiez52so4hzp3pj45daeze&st=bfc9o2j4&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -9,7 +9,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
-             Updated Jan 4.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Jan 9.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 

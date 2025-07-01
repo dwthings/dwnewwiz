@@ -43,6 +43,21 @@ description="An experimental build for Kodi Omega(v21) on a Raspberry Pi.
              Notes-Added many options to change skin colors AND images."
 
 
+name="RD_umbrella"               
+version="6-30-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/8dk3tpli2k91najzxafdt/RD_umbrella.zip?rlkey=jp39n9tg561h36f3n5dg1k0i9&st=9cpzfqn4&dl=1"                
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="This build requires a Real Debrid account. 
+             Updated June 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Notes-Added many options to change skin colors AND images."
+
+
 name="TOR_elementum"               
 version="6-30-25"             
 url="https://dl.dropboxusercontent.com/scl/fi/kb8zrzzflned14fzs1krw/TOR_elementum.zip?rlkey=l3vzho88igmy6w75453ybr4h7&st=hs0gy4zp&dl=1"                

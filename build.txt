@@ -1,6 +1,6 @@
 name="omega_sandbox"               
-version="7-30-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/nnw8n3fehh1okp77lwqp0/omega_sandbox.zip?rlkey=2ivnkl5myc2qwq0ugd25lz5mv&st=65jtzomu&dl=1"                
+version="9-02-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/njuxspan9jir11rb2hdh1/omega_sandbox.zip?rlkey=gsgnqi1ld6avt0113gc9ybgk4&st=u1z435qh&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -9,28 +9,13 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
-             Updated July 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 2.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
-name="omega_lite"               
-version="6-6-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/oiyt8iyufxvr6cmnv01zq/omega_lite.zip?rlkey=pw0grhpvqd9xm9ps5sc1qgi2j&st=kimn5xqw&dl=1"                
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="A lite build for Kodi Omega(v21). Recommended for low end devices and early Firesticks. 
-             Updated June 6.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Removed all themes except for default, removed extra fonts, removed all mod images, removed retro-gaming, removed milkdrop."
-
-
 name="pi_omega"               
-version="7-30-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/umsk4m6e6ik1v2gc8rq9t/pi_omega.zip?rlkey=t2sgb8ubaygx6qwbj0fk9e5d7&st=qur5rnge&dl=1"                
+version="9-02-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/v37a2zz1flpv09gub2d9r/pi_omega.zip?rlkey=gssste1y0wtna14up58wjuwpy&st=7xmbkt9q&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -39,13 +24,13 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21) on a Raspberry Pi. 
-             Updated July 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 2.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
 name="RD_umbrella"               
-version="7-30-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/9n6x9o4eu5s483qusrrix/RD_umbrella.zip?rlkey=m4tprsp28qlfuea8ckovgq2j7&st=clfszswu&dl=1"                
+version="9-02-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/ue737kuzne915gnbi3lcm/RD_umbrella.zip?rlkey=c210pt35epfsq85ubih4mj8nh&st=yzpaudzl&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -54,13 +39,13 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="This build requires a Real Debrid account. 
-             Updated July 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 2.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
 name="TOR_elementum"               
-version="7-30-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/nq37xhal3wiiqwzvmiqor/TOR_elementum.zip?rlkey=onx1pvjtovprug35w3a36cjso&st=pa03o1m9&dl=1"                
+version="9-02-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/sps7h5ao404itecenufkm/TOR_elementum.zip?rlkey=1e25kyw157rlpttl8z40bxha0&st=ja6uucjg&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -69,5 +54,5 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
-             Updated July 30.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 2.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."

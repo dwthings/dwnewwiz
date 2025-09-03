@@ -1,6 +1,6 @@
 name="omega_sandbox"               
 version="9-02-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/njuxspan9jir11rb2hdh1/omega_sandbox.zip?rlkey=gsgnqi1ld6avt0113gc9ybgk4&st=u1z435qh&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/8kn47ne68zhjioa0cff82/omega_sandbox.zip?rlkey=m0cu844u8plhx7gigqw3zku86&st=4ime4uhe&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -15,7 +15,7 @@ description="An experimental build for Kodi Omega(v21).
 
 name="pi_omega"               
 version="9-02-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/v37a2zz1flpv09gub2d9r/pi_omega.zip?rlkey=gssste1y0wtna14up58wjuwpy&st=7xmbkt9q&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/atvo3q5lpsvo58oy88ymk/pi_omega.zip?rlkey=ujtgo7hhelyvysdboz7lyac66&st=602axnqb&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -30,7 +30,7 @@ description="An experimental build for Kodi Omega(v21) on a Raspberry Pi.
 
 name="RD_umbrella"               
 version="9-02-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/ue737kuzne915gnbi3lcm/RD_umbrella.zip?rlkey=c210pt35epfsq85ubih4mj8nh&st=yzpaudzl&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/4qt4wehb9a4aic3l6px4s/RD_umbrella.zip?rlkey=5afzky6ogk2w39u9c2z8hvynq&st=c3imkg28&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -45,7 +45,7 @@ description="This build requires a Real Debrid account.
 
 name="TOR_elementum"               
 version="9-02-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/sps7h5ao404itecenufkm/TOR_elementum.zip?rlkey=1e25kyw157rlpttl8z40bxha0&st=ja6uucjg&dl=1"                
+url="https://dl.dropboxusercontent.com/scl/fi/bv2hgyg8ymes0iicub6od/TOR_elementum.zip?rlkey=mofu7cpx18x7mdf9ipefksgzu&st=di0htvif&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"

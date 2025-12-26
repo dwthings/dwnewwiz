@@ -1,6 +1,6 @@
 name="omega_sandbox"               
-version="12-13-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/nx12pc206lrj9lis6bsh1/omega_sandbox.zip?rlkey=c5m5ki3furbe72sxasrsmdvhz&st=vrrm8rl9&dl=1"                
+version="12-26-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/qhb4pmicjrmee15fm2hae/omega_sandbox.zip?rlkey=qh3sbcoq92f9f6rsrh8w1xts2&st=idyenzkn&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -9,7 +9,37 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
-             Updated Dec 13.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Dec 26.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Notes-Added many options to change skin colors AND images."
+
+
+name="RD_umbrella"               
+version="12-26-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/kj6bprmu38w4vo11lm7lv/RD_umbrella.zip?rlkey=75hp9z1b4cbk2r5sts49a1oe6&st=vfkff2nq&dl=1"                
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="This build requires a Real Debrid account. 
+             Updated Dec 26.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Notes-Added many options to change skin colors AND images."
+
+
+name="TOR_elementum"               
+version="12-26-25"             
+url="https://dl.dropboxusercontent.com/scl/fi/y0b71kis58arvwoapp253/TOR_elementum.zip?rlkey=hbpjt6wj7ys4l1y188xh41iqr&st=tz54f535&dl=1"                
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
+             Updated Dec 26.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
@@ -27,32 +57,3 @@ description="An experimental build for Kodi Omega(v21) on a Raspberry Pi.
              Updated Dec 13.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
-
-name="RD_umbrella"               
-version="12-13-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/odatrgkqr1m3nrto8k200/RD_umbrella.zip?rlkey=qb19ko9mk38xa7q94qxpy99u1&st=a64pkpe3&dl=1"                
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="This build requires a Real Debrid account. 
-             Updated Dec 13.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Added many options to change skin colors AND images."
-
-
-name="TOR_elementum"               
-version="12-13-25"             
-url="https://dl.dropboxusercontent.com/scl/fi/konr7f2hlh39fvwy37v8e/TOR_elementum.zip?rlkey=asbs9lj56d6vcii0eet04v38l&st=jhvgl5gw&dl=1"                
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
-             Updated Dec 13.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Added many options to change skin colors AND images."

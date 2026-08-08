@@ -38,7 +38,7 @@ icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description=[color red]*WARNING*[color] This build uses a torrent addon and requires a vpn *WARNING*. 
+description=*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
              Updated Apr 21.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 

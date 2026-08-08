@@ -42,3 +42,17 @@ description="*WARNING* This build uses a torrent addon and requires a vpn *WARNI
              Updated Apr 21.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
+
+name="omega_lite"               
+version="8-7-26"             
+url="https://dl.dropboxusercontent.com/scl/fi/83lni916v5hrbw9dngni8/omega_lite.zip?rlkey=2ake9shcd7yy2md6u5xt26uyr&st=im1fc9u8&dl=1"                
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
+fanart="http://"
+preview="http://"
+adult="No"
+description="An experimental lite build for Kodi Omega(v21). 
+             Updated Aug 7.[CR]-This build uses the Sandbox Lite fork of the Aeon Nox Silvo skin.
+             Notes-A minimal build intended for low spec devices."

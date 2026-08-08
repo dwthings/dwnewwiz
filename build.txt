@@ -38,7 +38,7 @@ icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description=*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
+description="*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
              Updated Apr 21.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
@@ -56,3 +56,5 @@ adult="No"
 description="An experimental lite build for Kodi Omega(v21). 
              Updated Aug 7.[CR]-This build uses the Sandbox Lite fork of the Aeon Nox Silvo skin.
              Notes-A minimal build intended for low spec devices."
+
+

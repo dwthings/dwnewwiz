@@ -1,6 +1,6 @@
 name="omega_sandbox"               
-version="8-6-26"             
-url="https://dl.dropboxusercontent.com/scl/fi/gkmkid4pxv9yibhqtjin9/omega_sandbox.zip?rlkey=p4op16nidx15n23qsvf4ppv3q&st=edfkbb3r&dl=1"                
+version="8-14-26"             
+url="https://dl.dropboxusercontent.com/scl/fi/wd9k7x049vxrsas9cf356/omega_sandbox.zip?rlkey=9e4dbdf9mmxuoxv22f7z87n3z&st=mchr3sm4&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -9,43 +9,14 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
-             Updated Aug 6.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Aug 14.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
-
-name="RD_umbrella"               
-version="4-21-26"             
-url="https://dl.dropboxusercontent.com/scl/fi/krei0tbhfi5iefg5zxbnc/RD_umbrella.zip?rlkey=po80gfxk25oisinhqvj798abf&st=274nk52a&dl=1"                
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="This build requires a Real Debrid account. 
-             Updated Apr 21.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Added many options to change skin colors AND images."
-
-
-name="TOR_elementum"               
-version="4-21-26"             
-url="https://dl.dropboxusercontent.com/scl/fi/yxjbz9q9apnbbgdsso417/TOR_elementum.zip?rlkey=vj8vnoaql0k8kjhiiu0pp7bcj&st=axpadmyd&dl=1"                
-gui="http://"
-kodi="21.0"
-theme="http://"
-icon="https://raw.githubusercontent.com/dwthings/dwnewwiz/master/pcgrab8a.png"
-fanart="http://"
-preview="http://"
-adult="No"
-description="*WARNING* This build uses a torrent addon and requires a vpn *WARNING*. 
-             Updated Apr 21.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
-             Notes-Added many options to change skin colors AND images."
 
 
 name="omega_lite"               
-version="8-7-26"             
-url="https://dl.dropboxusercontent.com/scl/fi/83lni916v5hrbw9dngni8/omega_lite.zip?rlkey=2ake9shcd7yy2md6u5xt26uyr&st=im1fc9u8&dl=1"                
+version="8-14-26"             
+url="https://dl.dropboxusercontent.com/scl/fi/t8pldzcbbxv88voeydoto/omega_lite.zip?rlkey=0zryu061mx278iq27ifn19qal&st=lam0en9e&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -54,7 +25,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental lite build for Kodi Omega(v21). 
-             Updated Aug 7.[CR]-This build uses the Sandbox Lite fork of the Aeon Nox Silvo skin.
+             Updated Aug 14.[CR]-This build uses the Sandbox Lite fork of the Aeon Nox Silvo skin.
              Notes-A minimal build intended for low spec devices."
 
 

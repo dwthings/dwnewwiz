@@ -1,6 +1,6 @@
 name="omega_sandbox"               
-version="9-1-26"             
-url="https://dl.dropboxusercontent.com/scl/fi/76d5wfes07ecsw8cd67eu/omega_sandbox.zip?rlkey=xbvqzw81s3c02d8vh0zr6y9qv&st=vmwytgzj&dl=1"                
+version="9-4-26"             
+url="https://dl.dropboxusercontent.com/scl/fi/cd1xema3k45nx9hcvldhf/omega_sandbox.zip?rlkey=ul9znkuvhl0n79rnxv36dayzl&st=r9qo3gae&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -9,14 +9,14 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental build for Kodi Omega(v21). 
-             Updated Sept 1.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
+             Updated Sept 4.[CR]-This build uses the Sandbox fork of the Aeon Nox Silvo skin.
              Notes-Added many options to change skin colors AND images."
 
 
 
 name="omega_lite"               
-version="9-1-26"             
-url="https://dl.dropboxusercontent.com/scl/fi/0j5cs2948mio59mr913lf/omega_lite.zip?rlkey=4n6u55n5nxq070au2imvdb27f&st=71jvs0fj&dl=1"                
+version="9-4-26"             
+url="https://dl.dropboxusercontent.com/scl/fi/4qttmdz566t7ipriiagi0/omega_lite.zip?rlkey=endyl5cyzv4afcxbezyopz7g3&st=e59yz41r&dl=1"                
 gui="http://"
 kodi="21.0"
 theme="http://"
@@ -25,7 +25,7 @@ fanart="http://"
 preview="http://"
 adult="No"
 description="An experimental lite build for Kodi Omega(v21). 
-             Updated Sept 1.[CR]-This build uses the Sandbox Lite fork of the Aeon Nox Silvo skin.
+             Updated Sept 4.[CR]-This build uses the Sandbox Lite fork of the Aeon Nox Silvo skin.
              Notes-A minimal build intended for low spec devices."
 
 
